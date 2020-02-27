@@ -1,6 +1,6 @@
 /* //index// */
 .background{
-    background-image: url("internet.jpg");
+    background-image: url("background.jpg");
     background-size: cover;
 }
 .header{
@@ -151,8 +151,7 @@ background-image: radial-gradient(blue,green, red);
 }
 
 .div6{
-background-image: radial-gradient(red 60%, green 5%, blue 35%);
-
+   background-image: radial-gradient(red 56%, green 56%, blue 74%);
 }
 
 .div7{
@@ -175,4 +174,14 @@ font-size: 18px;
 .text2{
     font-size: 18px;
     margin-top: 45px;
+}
+
+.centerimg{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.ctrimg{
+    width: 50%;
 }
